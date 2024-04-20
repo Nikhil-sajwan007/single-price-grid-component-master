@@ -44,6 +44,9 @@ p{
     width: 60%;
     /* border: 1px solid red; */
     display: grid;
+    grid-template-columns: 1fr;
+    /* grid-column: 1 / -1; */
+    
     
 
 }
@@ -53,8 +56,8 @@ p{
     background-color: var(--white);
     padding: 1rem 1rem;
     border-radius: 8px 8px 0 0;
-    grid-column-start: 1;
-    grid-column-end: 3;
+    /* grid-column-start: 1;
+    grid-column-end: 3; */
 
     
 }
@@ -66,6 +69,7 @@ p{
 .bottom-left{
 
     border: 1px solid red;
+  
 
     
 
