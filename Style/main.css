@@ -100,7 +100,17 @@ p{
     color: var(--white);
     
 
-    
+
+}
+
+.btn{
+
+    padding: 0.8rem 1.6rem;
+    background-color: var(--bright-yellow);
+    border: none;
+    color: var(--white);
+    font-weight: 600;
+
 }
 
 
