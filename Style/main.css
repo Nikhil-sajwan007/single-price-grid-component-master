@@ -78,7 +78,11 @@ p{
   
 
     
+    
+}
+.bottom-left h3{
 
+    color: var(--white);
 }
 
 .bottom-right{
@@ -92,4 +96,5 @@ p{
 
     
 }
+
 
