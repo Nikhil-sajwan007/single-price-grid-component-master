@@ -43,7 +43,7 @@ p{
   
     font-family: var(--Primary-font);
     line-height: 1.5;
-    margin-bottom: 1rem;
+    
 }
 
 
@@ -116,6 +116,10 @@ p{
 .price {
     display: flex;
     
+}
+
+.bottom-right h3{
+    color: var(--white);
 }
 
 
